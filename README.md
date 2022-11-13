@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python Django and Flask
 - 💞️ I’m looking to collaborate on Web development projects, web design projects, software development and any other collaborative project
 - 📫 How to reach me 
-  - [inkedIn](https://www.linkedin.com/in/vivek-nair03/)
+  - [LinkedIn](https://www.linkedin.com/in/vivek-nair03/)
   - [Email](vivekmanojkumarnair2024@cs.ajce.in)
   - [Email](vivekmanju53@gmail.com)
 
