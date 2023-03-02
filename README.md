@@ -9,7 +9,7 @@
 
 - 👀 I’m interested in Cyber Security, Full Stack Web Development
 
-- 🌱 I’m currently learning Python Django and Flask
+- 🌱 I’m currently carrying out projects using Django and Flask
 
 - 📫 How to reach me: 
     - **vivekmanojkumarnair2024@cs.ajce.in**
