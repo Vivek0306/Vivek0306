@@ -1,7 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hey%2C+I'm+Vivek+Nair;I+am+a+Full+Stack+Developer;I+am+a+CS+Student;I+am+a+Cyber+Security+Enthusiast;)](https://git.io/typing-svg)
 
-[![Linkedin: Vivek](https://img.shields.io/badge/-VivekNair-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivek-nair03/)](https://www.linkedin.com/in/vivek-nair03/)
-![GitHub followers](https://img.shields.io/github/followers/Vivek0306?label=Follow&style=social)
+
+[![LinkedIn: Vivek](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vivek-nair03/)](https://www.linkedin.com/in/vivek-nair03/)
+[![Hackerrank: Vivek](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/Vivek03?hr_r=1)](https://www.hackerrank.com/Vivek03?hr_r=1)
+[![GitHub: Vivek0306](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vivek0306)
+[![Gmail: Vivek](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivekmanojkumarnair2024@cs.ajce.in)
+[![Discord: KamikazeX](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/492009448362082315)
+
+
 <hr>
 
 
