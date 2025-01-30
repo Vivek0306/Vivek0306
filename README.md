@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hey%2C+I'm+Vivek+Nair;I+am+a+Full+Stack+Developer;I+am+a+CS+Student;I+am+a+Cyber+Security+Enthusiast;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hey%2C+I'm+Vivek+Nair;Working+as+a+Data+Engineer;I+am+a+Full+Stack+Developer;I+am+a+CS+Student;I+am+a+Cyber+Security+Enthusiast;)](https://git.io/typing-svg)
 
 
 [![LinkedIn: Vivek](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vivek-nair03/)](https://www.linkedin.com/in/vivek-nair03/)
