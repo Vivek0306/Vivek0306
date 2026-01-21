@@ -10,7 +10,7 @@
 
 <hr>
 
-![Cover Banner]("https://github.com/user-attachments/assets/408b939f-a4f7-442c-8ce2-3f4ed24ea0a8")
+![Cover Banner](https://github.com/user-attachments/assets/408b939f-a4f7-442c-8ce2-3f4ed24ea0a8)
 
 
 - 👋 Hi, I’m Vivek Nair @Vivek0306
