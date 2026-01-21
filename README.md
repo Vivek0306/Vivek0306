@@ -15,7 +15,9 @@
 
 - 👋 Hi, I’m Vivek Nair @Vivek0306
 
-- 📅 Currently working as a Data Engineer at UST, where I focus on developing and maintaining scalable Big Data solutions, including ETL pipelines, Hadoop, PySpark, and much more.
+- 📅 Currently working as a Database Developer at Tata Consultancy Services, focusing primarily on Oracle PL/SQL Development and Database Design.
+
+- 💼 Worked as a Data Engineer at UST, where I focused on developing and maintaining scalable Big Data solutions, including ETL pipelines, Hadoop, PySpark, and much more.
   
 - 👀 Driven by a passion for Cyber Security, Full Stack Web Development, and tackling challenging and impactful development projects.
 
@@ -27,7 +29,6 @@
 
 - ⚡ I’m looking to collaborate on Web Development Projects, Web Design Projects, Software Development and any Other Collaborative Project
   
-- ✨ Also Checkout [Vosnet Technologies](https://vosnet.online/)
 
 <h3 align="left">Languages and Tools:</h3>
 
